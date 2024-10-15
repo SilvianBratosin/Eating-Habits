@@ -1,0 +1,144 @@
+cluster,WeightClass,GEO_CHR,BMI,ORRECIPEDESC,count
+0,Normal,Centru,24.4,apa de fantana,14
+0,Normal,Nord-Est,22.7,apa,14
+0,Normal,Sud-Vest Oltenia,24.3,apa,13
+0,Normal,Sud-Vest Oltenia,23.7,apa,12
+0,Normal,Centru,23.3,apa minerala,10
+0,Obese Class I,Centru,31.2,apa minerala,14
+0,Obese Class I,Nord-Vest,30.3,bere,8
+0,Obese Class I,Nord-Est,30.7,apa,7
+0,Obese Class I,Nord-Vest,31.1,bere,7
+0,Obese Class I,Sud-Muntenia,30.5,apa plata,7
+0,Obese Class II,Centru,35.4,apa plata,7
+0,Obese Class II,Nord-Est,39.3,apa,7
+0,Obese Class II,Vest,35.1,apa,7
+0,Obese Class II,Vest,35.7,suc,7
+0,Obese Class II,Vest,35.2,apa de fantana,6
+0,Obese Class III,Sud-Vest Oltenia,41.1,apa,7
+0,Obese Class III,Vest,42.3,bere,2
+0,Overweight,Centru,25.1,compot,14
+0,Overweight,Centru,27.4,apa minerala,14
+0,Overweight,Centru,25.1,apa plata,12
+0,Overweight,Centru,29.1,apa minerala,12
+0,Overweight,Centru,27.2,bere,11
+0,Underweight,Centru,13.6,bere,5
+0,Underweight,Sud-Muntenia,18.4,apa plata,5
+0,Underweight,Vest,18.5,ceai,5
+0,Underweight,Centru,17.2,apa plata,3
+0,Underweight,Sud-Muntenia,15.6,suc,3
+1,Normal,Nord-Est,24.3,paine,34
+1,Normal,Nord-Vest,21.1,paine,31
+1,Normal,Nord-Vest,22.9,paine,25
+1,Normal,Nord-Vest,22.9,cafea preparata,22
+1,Normal,Nord-Vest,24.7,paine,22
+1,Obese Class I,Nord-Vest,31.3,paine,17
+1,Obese Class I,Nord-Vest,32.1,paine,13
+1,Obese Class I,Centru,30.5,paine,12
+1,Obese Class I,Nord-Est,33.1,paine,12
+1,Obese Class I,Nord-Est,31.3,paine,11
+1,Obese Class II,Nord-Est,35.9,paine,6
+1,Obese Class II,Nord-Est,35.3,paine,5
+1,Obese Class II,Centru,37.5,paine,4
+1,Obese Class II,Nord-Vest,35.2,piersica,4
+1,Obese Class II,Vest,35.7,cafea preparata,4
+1,Obese Class III,Centru,42.4,paine,5
+1,Obese Class III,Centru,42.4,rachiu,4
+1,Obese Class III,Centru,40.1,paine,3
+1,Obese Class III,Nord-Vest,42.8,paine,3
+1,Obese Class III,Sud-Vest Oltenia,41.1,paine,3
+1,Overweight,Nord-Est,25.4,paine,38
+1,Overweight,Centru,25.8,paine,25
+1,Overweight,Sud-Vest Oltenia,25.4,paine,25
+1,Overweight,Centru,27.4,paine,24
+1,Overweight,Centru,27.4,cafea preparata,23
+1,Underweight,Vest,17.7,paine,13
+1,Underweight,Centru,17.2,cafea preparata,8
+1,Underweight,Centru,18.3,paine,7
+1,Underweight,Nord-Est,18.0,paine,7
+1,Underweight,Nord-Vest,16.1,paine,7
+2,Normal,Sud-Vest Oltenia,23.7,paine,45
+2,Normal,Nord-Vest,25.0,paine,34
+2,Normal,Sud-Muntenia,23.6,paine,32
+2,Normal,Sud-Vest Oltenia,23.6,paine,30
+2,Normal,Vest,24.1,paine,26
+2,Obese Class I,Sud-Vest Oltenia,31.2,paine,32
+2,Obese Class I,Sud-Muntenia,30.8,paine,31
+2,Obese Class I,Sud-Vest Oltenia,33.7,paine,27
+2,Obese Class I,Sud-Muntenia,32.3,paine,25
+2,Obese Class I,Nord-Vest,30.4,paine,22
+2,Obese Class II,Nord-Est,37.9,paine,24
+2,Obese Class II,Sud-Muntenia,36.1,paine,19
+2,Obese Class II,Sud-Vest Oltenia,35.5,paine,17
+2,Obese Class II,Sud-Vest Oltenia,39.8,paine,16
+2,Obese Class II,Centru,37.3,paine,13
+2,Obese Class III,Vest,42.3,paine,12
+2,Obese Class III,Vest,42.3,apa,7
+2,Obese Class III,Vest,42.3,cafea preparata,7
+2,Obese Class III,Centru,40.1,paine,6
+2,Obese Class III,Vest,42.3,mancare gatita,5
+2,Overweight,Sud-Vest Oltenia,25.5,paine,41
+2,Overweight,Sud-Vest Oltenia,26.6,paine,40
+2,Overweight,Sud-Vest Oltenia,27.5,paine,38
+2,Overweight,Centru,27.2,paine,33
+2,Overweight,Sud-Vest Oltenia,29.1,paine,33
+2,Underweight,Sud-Vest Oltenia,16.3,paine,1
+3,Normal,Nord-Vest,24.1,paine,46
+3,Normal,Nord-Est,23.2,paine,43
+3,Normal,Nord-Est,23.1,paine,42
+3,Normal,Nord-Vest,23.5,paine,38
+3,Normal,Nord-Est,24.7,paine,33
+3,Obese Class I,Nord-Vest,30.3,paine,28
+3,Obese Class I,Nord-Vest,31.1,rosie,28
+3,Obese Class I,Centru,30.8,paine,27
+3,Obese Class I,Nord-Vest,31.1,paine,24
+3,Obese Class I,Nord-Vest,31.7,paine,24
+3,Obese Class II,Nord-Vest,38.6,paine,31
+3,Obese Class II,Nord-Est,37.0,paine,21
+3,Obese Class II,Nord-Est,35.3,apa,20
+3,Obese Class II,Nord-Vest,35.5,paine,20
+3,Obese Class II,Centru,36.8,paine,16
+3,Obese Class III,Nord-Vest,42.8,paine,10
+3,Obese Class III,Nord-Vest,42.8,rosie,3
+3,Obese Class III,Nord-Vest,42.8,cafea preparata,3
+3,Obese Class III,Bucuresti-Ilfov,40.1,cafea preparata,2
+3,Obese Class III,Bucuresti-Ilfov,40.1,branza vaci,2
+3,Overweight,Nord-Est,26.3,paine,68
+3,Overweight,Nord-Est,25.8,paine,45
+3,Overweight,Nord-Est,28.8,paine,41
+3,Overweight,Centru,26.9,paine,37
+3,Overweight,Centru,27.2,paine,37
+3,Underweight,Nord-Est,17.0,paine alba,7
+3,Underweight,Nord-Est,17.0,suc,6
+3,Underweight,Centru,13.6,cafea preparata,4
+3,Underweight,Nord-Est,17.0,ness,4
+3,Underweight,Nord-Est,17.0,unt,4
+4,Normal,Nord-Est,24.3,paine,37
+4,Normal,Nord-Est,24.8,paine,27
+4,Normal,Nord-Vest,22.9,paine,26
+4,Normal,Centru,22.8,paine,22
+4,Normal,Nord-Vest,21.1,paine,22
+4,Obese Class I,Centru,30.5,paine,18
+4,Obese Class I,Sud-Vest Oltenia,33.8,paine,15
+4,Obese Class I,Nord-Est,31.3,paine,14
+4,Obese Class I,Nord-Vest,31.3,paine,14
+4,Obese Class I,Sud-Muntenia,30.5,paine,12
+4,Obese Class II,Nord-Est,35.9,paine,7
+4,Obese Class II,Centru,37.5,paine,5
+4,Obese Class II,Nord-Est,35.3,paine alba,5
+4,Obese Class II,Nord-Est,35.9,mamaliga,4
+4,Obese Class II,Vest,35.2,cafea neindulcita,4
+4,Obese Class III,Centru,42.4,paine,6
+4,Obese Class III,Centru,40.1,paine,5
+4,Obese Class III,Sud-Vest Oltenia,41.1,paine,4
+4,Obese Class III,Centru,42.4,rachiu,3
+4,Obese Class III,Nord-Vest,42.8,paine,3
+4,Overweight,Centru,25.8,paine,31
+4,Overweight,Nord-Est,25.4,paine,30
+4,Overweight,Centru,27.4,paine,27
+4,Overweight,Sud-Vest Oltenia,25.4,paine,26
+4,Overweight,Nord-Est,29.1,paine,23
+4,Underweight,Centru,18.0,paine,10
+4,Underweight,Sud-Muntenia,15.6,paine integrala,10
+4,Underweight,Vest,17.7,paine,10
+4,Underweight,Sud-Vest Oltenia,16.3,paine,9
+4,Underweight,Sud-Muntenia,16.8,paine,8
